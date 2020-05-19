@@ -58,6 +58,4 @@ public class Linkedlist {
     }
 }
 
-
-Output:
  
